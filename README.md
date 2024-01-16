@@ -1,1 +1,1 @@
-![prxy_logo](assets/img/prxy.png)
+![prxy_logo](assets/images/prxy.png)
